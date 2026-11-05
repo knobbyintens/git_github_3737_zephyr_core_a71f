@@ -1,1 +1,1 @@
-# Zephyr Core
+# Zephyr Core RC

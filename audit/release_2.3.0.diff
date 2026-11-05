@@ -1,3 +1,7 @@
+# Zephyr Core - refactor diff for release/2.3.0
+
+# No changes in: src/api/handlers.py
+
 --- a/src/core/ledger_engine.py
 +++ b/src/core/ledger_engine.py
 @@ -141,13 +141,10 @@
